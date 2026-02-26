@@ -1,0 +1,15 @@
+# Core ML dependencies
+ultralytics
+
+# API server
+fastapi
+uvicorn
+python-multipart
+
+# Image processing
+Pillow
+opencv-python
+
+# Plotting
+matplotlib
+seaborn
